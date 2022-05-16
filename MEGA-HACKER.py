@@ -1,6 +1,6 @@
 
 
-import re , colorama
+import re 
 colorama.init()
 print("""
 \033[1;31m\033[1;37m   __  __ _____ ____    _        _   _    _    ____ _  _______ ____
