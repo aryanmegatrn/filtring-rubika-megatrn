@@ -1,11 +1,9 @@
 import os
 import time
-import Thread
 import Fore
-import sleep
 proxy = {"https": "127.0.0.1.8000"}
 print(Fore.RED)
-print(""" sMs bOmBeR God """)
+print(""" SmS bOmBeR God """)
 sleep(2)
 print(Fore.GREEN)
 print(""" 
