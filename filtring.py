@@ -1,4 +1,4 @@
-
+#mi_aryan_megatrn
 import os
 print (" ♕ ARYAN MEGATRN ♕ ")
 # auto install libs
