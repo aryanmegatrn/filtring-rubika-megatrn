@@ -1,5 +1,5 @@
 
-port os
+import os
 print (" ♕ ARYAN MEGATRN ♕ ")
 # auto install libs
 os.system("pip install colored")
@@ -184,7 +184,7 @@ print ("   I  Love")
 time.sleep(0.5)
 print ("   Mehrab")
 time.sleep(0.1)
-print ("   M bye") bye")
+print ("   M bye")
 print ("")
 time.sleep(1)
 print(f"{red} ")
