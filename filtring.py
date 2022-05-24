@@ -40,7 +40,7 @@ x = """               .. ... ....                                               
 Hello My Friend Im Aryan Megatrn I am filtering and I want to give you, my friends, a filtering code. I hope you use it correctly. Thank you.
 GOD FIltering Rubika >~Aryan Megatrn>_
                           
-						    __   __
+						                __   __
 								|  \/  |
 								| |\/| |
 								| |  | |
@@ -53,35 +53,35 @@ GOD FIltering Rubika >~Aryan Megatrn>_
 								|_____|
 								
 								  ____
-							  / ___|
+						   	        / ___|
 								| |  _
 								| |_| |
 								 \____|
 								 
 								    _        
-						    	 / \      
+						               	   / \      
 								  / _ \    
 								 / ___ \  
 								/_/   \_\								
 								
 																	
 						  		 _____
-									|_   _|
-									  | |
-									  | |
-									  |_|
+						        	|_   _|
+								  | |
+								  | |
+								  |_|
 
 					 			  ____
-									|  _ \
-									| |_) |
-									|  _ <
-									|_| \_\
+								 |  _ \
+								 | |_) |
+								 |  _ <
+								 |_| \_\
 																		 			
-									 _   _
-									| \ | |
-									|  \| |
-									| |\  |
-									|_| \_|									 			
+								 _   _
+								| \ | |
+								|  \| |
+								| |\  |
+								|_| \_|									 			
 									 			
                      new~acont~rubika:@mi_aryan_megatrn
                        id tel:@Mr_aryan_a_h_a
